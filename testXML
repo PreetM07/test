@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns:wb="http://www.wordbee-translator.com/Xliff" wb:scope="6qIztK0igEzw/0ioQl16YhZd+FW2GmKg5l0YNzVSsLflnXqp+mD6wVaIqh+uzhv+ehTdqwba/3/uLu5b46a4lQ==" wb:layout="krggdXVcceuWbyQatH4pGfzBd0BEMoa2BFu4aFt9Qh4ceYLwvd83g2AyzxCL+bJsMmy58lwTAxyKPoA9/NSuOBKQGbwRu3nzovFIBdVfPIQ0PDZGnkcjD+DgYVcGM6PrGdwrq6zMVZ+cynshoOEQYkGqExt2oz3QXGS1omdMVAzHqOgftf0ieCFtUL/sBoizC3FywGiF4poj/UZ14n16GfVFc4Ot8OEYeZYbBaMzxiS4Ey5aoB63CC72zviehGBY8rYL2VcHIbEwi9kR+UyI+DHz+MZo4DdhsyU+raupiTLLsDXIvSgvt8WjH51Jw36nmnxhSTe9StKsmfDSZlUV3a6md9iqcRDmcsBEBaO85RhuMUHBFB6aPT1nXCZ8cQw6ezJL+WDRizquMxcvMvlMm+x9mfdftOjoBUSlqDYcL6Nkj0RFYy7CR/xiWB5lP/+tmAoEMNLaIPzapsOXGvWyuxQwAMlw/onUKF4jTcgT9PMabpAgRJOAL24OHkWWQ9ePq+ehumFUp+620rbTeCOQEZ4cbQRoDvkYbfkgxAzxPVAbq/dSVOh6wmBdxFuhZpj3Z6UbkNNv1NpcxGHzdFVWh23UnYU+7DTuUaraTQfRgwo8ZdyzZGJX2uBk0yaliFxk5WxMbZYwxEKYpOAtTn7DKrUlDBYZdwppnd3QkeDxzIZbIGvKk/PhmgdtVsjjiVskDoCSkiezqcYDd/5v84rgtKYTBotN8FGnkSp3jn8PXBibU3jyNRonxhALTExkU9ajHNqmB7hPQp+2heAFNhj8F4JsElCpMgpYAcBil9NRky8Mj62J7LLk1bhlFTWVPyvvZXTNAMPj3h2e8SO6zwQyVPwMLo+ACgkiE+XBj8tqJdsUVNURyEPtvN5O8X2Mk+Hd9j3XxbusnOhekmHA+YVNN8y3aVPe+uho8bgaQMacEgvqAtvQNR6bqs7KthKRsrUBneZWKhwLF0xSLqHiIqfOCh+zaRB84O74C0PSa5yqloda5VdpbdFUcRkMWf2pxCaF/rJ/wW9remCZnEUrb/aS6HO801yTaAq4ztLv5X+ZnJ2BPtCBvm4W/D/LymLlpvOtUPA6Eb5ua3iJ2EHgEPvUcrd7aBnIuIAOdljHFQoASXL8563FEFbtiFcIpiBTliUx63C8o1xm32zkE7yz9d/vOE6uVv+jpNjIEolnZhT1e5kCSJ0COqml95lzsxFr2Xj3SUxuO3rHkATzOUFNDGiyYU9BO211KlT3y4QK8Whtljmqxmgl8m3oi5nX2XaT4lsiay3ultuezRN69IECoC7smWz8AeDV/H8WhyCzZ8fLX6rj+2FHbzzzuI7eCFCHY1ogzIYSnMpBuXmB5taDiWUBuk5Xmof0QRYO+iE1b/UuJ0fptF4q7A14sRXEgLE0xAO2iwPaXyZbKWyAMSTjGmhtiQ==" wb:sourceId="Mapi" wb:sourceName="Icon Language Services" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" target-language="hi-IN" date="2022-09-04T01:09:43Z" original="COVID-19 PRO SIC_lan-CO_DDMMMYYYY - 2F2B+CD.docx" datatype="x-word" wb:hash="zmuzCdBJZ/YIHMLjJ99XLwtOpT2px86SsNqD3awlXezNY6NnNayj38ZyooQQb/7cWHR6ddB7g1VNj9giKq8x1g==">
+		<header>
+			<tool tool-id="Wordbee" tool-name="Wordbee" tool-company="Wordbee"/>
+		</header>
+		<body>
+			<trans-unit wb:hash="tLQq+j25rL8L2iflpiCKoA==" wb:date="09/04/2022 13:09:43" id="8677152" wb:segmentId="1" wb:subSegmentId="0">
+				<source xml:space="preserve">Symptoms of Infection with Coronavirus-19 (SIC)</source>
+				<target xml:space="preserve">कोरोनावायरस-19 के साथ संक्रमण के लक्षण (SIC)</target>
+				<target xml:space="preserve">कोरोनावायरस-19 (SIC) संक्रमण के लक्षण </target>
+				<target xml:space="preserve">कोरोनावायरस-19 के साथ संक्रमण के लक्षण (SIC)</target>
+			</trans-unit>
+			<trans-unit wb:hash="BAf1iCq0NniZWGeaxcV2zA==" wb:date="09/04/2022 13:09:43" id="8677153" wb:segmentId="2" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<x id="b1-0" wb:name="b1"/>The following questions ask about symptoms people with coronavirus-19 infection may experience.</source>
+				<target xml:space="preserve">
+					<x id="b1-0" wb:name="b1"/>निम्नलिखित प्रश्न उन लक्षणों के बारे में पूछते हैं जिन्हें कोरोनावायरस-19 संक्रमण से ग्रस्त लोग अनुभव कर सकते हैं।</target>
+				<target xml:space="preserve">
+					<x id="b1-0" wb:name="b1"/>निम्नलिखित प्रश्न उन लक्षणों के बारे में हैं जिनका अनुभव कोरोनावायरस-19 से संक्रमित लोग कर सकते हैं।</target>
+				<target xml:space="preserve">
+					<x id="b1-0" wb:name="b1"/>निम्नलिखित प्रश्न उन लक्षणों के बारे में पूछते हैं जिन्हें कोरोनावायरस-19 संक्रमण से ग्रस्त लोग अनुभव कर सकते हैं।</target>
+			</trans-unit>
+			<trans-unit wb:hash="NpLF/2f8u68B4VQnkgBDzw==" wb:date="09/04/2022 13:09:43" id="8677322" wb:segmentId="2" wb:subSegmentId="1">
+				<source xml:space="preserve">Answer each question carefully by choosing ‘Yes’ if you have experienced the symptom or ‘No’ if you have not experienced the symptom in the last 24 hours<x id="/b1-0" wb:name="/b1"/>
+					<x id="t1-0" wb:name="t1"/>.</source>
+				<target xml:space="preserve">यदि आपने पिछले 24 घंटों में लक्षण का अनुभव किया है तो 'हां', या यदि आपने पिछले 24 घंटों में लक्षण का अनुभव नहीं किया है तो 'नहीं' का चयन करके प्रत्येक प्रश्न का सावधानीपूर्वक उत्तर दें<x id="/b1-0" wb:name="/b1"/>
+					<x id="t1-0" wb:name="t1"/>।</target>
+				<target xml:space="preserve">प्रत्येक प्रश्न का सावधानीपूर्वक उत्तर दें, यदि आपने पिछले 24 घंटों में लक्षण का अनुभव किया है तो 'हाँ' और यदि नहीं किया है तो 'नहीं' का चयन करें<x id="/b1-0" wb:name="/b1"/>
+					<x id="t1-0" wb:name="t1"/>।</target>
+				<target xml:space="preserve">यदि आपने पिछले 24 घंटों में लक्षण का अनुभव किया है तो 'हां', या यदि आपने पिछले 24 घंटों में लक्षण का अनुभव नहीं किया है तो 'नहीं' का चयन करके प्रत्येक प्रश्न का सावधानीपूर्वक उत्तर दें<x id="/b1-0" wb:name="/b1"/>
+					<x id="t1-0" wb:name="t1"/>।</target>
+			</trans-unit>
+			<trans-unit wb:hash="IhO3/5mD1ZdgHyncMC7IQg==" wb:date="09/04/2022 13:09:43" id="8677323" wb:segmentId="2" wb:subSegmentId="2">
+				<source xml:space="preserve">
+					<x id="/t1-0" wb:name="/t1"/>
+					<g id="b2-0" wb:name="b2">If you choose ‘yes’, select the rating that best matches your experience.</g>
+				</source>
+				<target xml:space="preserve">
+					<x id="/t1-0" wb:name="/t1"/>
+					<g id="b2-0" wb:name="b2">यदि आप ‘हां’ चुनते हैं, आपके अनुभव के साथ सर्वोत्तम मेल खाने वाली रेटिंग चुनें।</g>
+				</target>
+				<target xml:space="preserve">
+					<x id="/t1-0" wb:name="/t1"/>
+					<g id="b2-0" wb:name="b2">यदि आप 'हाँ' चुनते हैं, तो वह रेटिंग चुनें जो आपके अनुभव से सबसे अच्छी तरह मेल खाती हो।</g>
+				</target>
+				<target xml:space="preserve">
+					<x id="/t1-0" wb:name="/t1"/>
+					<g id="b2-0" wb:name="b2">यदि आप ‘हां’ चुनते हैं, आपके अनुभव के साथ सर्वोत्तम मेल खाने वाली रेटिंग चुनें।</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="8AXc05/xY5zWeU2bqyAv2A==" wb:date="09/04/2022 13:09:43" id="8677154" wb:segmentId="3" wb:subSegmentId="0">
+				<source xml:space="preserve">In the last 24 hours, have you experienced…</source>
+				<target xml:space="preserve">पिछले 24 घंटों में, क्या आपने अनुभव किया है…</target>
+				<target xml:space="preserve">पिछले 24 घंटे में क्या आपने महसूस किया है...</target>
+				<target xml:space="preserve">पिछले 24 घंटों में, क्या आपने अनुभव किया है…</target>
+			</trans-unit>
+			<trans-unit wb:hash="FqBF941khzqRkckgsoJ72A==" wb:date="09/04/2022 13:09:43" id="8677155" wb:segmentId="4" wb:subSegmentId="0">
+				<source xml:space="preserve">Feeling generally unwell (run down)</source>
+				<target xml:space="preserve">सामान्य रूप से बीमार महसूस करना (तबीयत खराब होना)</target>
+				<target xml:space="preserve">अस्वस्थ महसूस करना (थकान)</target>
+				<target xml:space="preserve">सामान्य रूप से बीमार महसूस करना (तबीयत खराब होना)</target>
+			</trans-unit>
+			<trans-unit wb:hash="l0Y0E3Kn2yo4810AYbz8uQ==" wb:date="09/04/2022 13:09:43" id="8677156" wb:segmentId="5" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="6OHaMCfVeMIv7y6AzaFDSg==" wb:date="09/04/2022 13:09:43" id="8677157" wb:segmentId="6" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="YTv5N+B5JrySacD1kslWrg==" wb:date="09/04/2022 13:09:43" id="8677158" wb:segmentId="7" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was this </g>
+					<g id="b1-0" wb:name="b1">feeling (generally unwell or run down)</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में यह </g>
+					<g id="b1-0" wb:name="b1">एहसास (सामान्य रूप से बीमार या तबीयत खराब)</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में </g>
+					<g id="b1-0" wb:name="b1">(अस्वस्थ या थका हुआ) महसूस करना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में यह </g>
+					<g id="b1-0" wb:name="b1">एहसास (सामान्य रूप से बीमार या तबीयत खराब)</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="0sb8V13MXUn/eucus9nedA==" wb:date="09/04/2022 13:09:43" id="8677159" wb:segmentId="8" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="PsRJc6nVombrr8LORprUzw==" wb:date="09/04/2022 13:09:43" id="8677160" wb:segmentId="9" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="774gOfKA2w0e1qh5yvIEhw==" wb:date="09/04/2022 13:09:43" id="8677161" wb:segmentId="10" wb:subSegmentId="0">
+				<source xml:space="preserve">Fatigue (tiredness)</source>
+				<target xml:space="preserve">थकान (थकावट)</target>
+				<target xml:space="preserve">थकान</target>
+				<target xml:space="preserve">थकान (थकावट)</target>
+			</trans-unit>
+			<trans-unit wb:hash="Zf92YK58JA9RWKWigtoHjw==" wb:date="09/04/2022 13:09:43" id="8677162" wb:segmentId="11" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="VqFoEG3HPwGugkImm4BCZg==" wb:date="09/04/2022 13:09:43" id="8677163" wb:segmentId="12" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="qDO/JcBa+YGYGdXBVVESiw==" wb:date="09/04/2022 13:09:43" id="8677164" wb:segmentId="13" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">fatigue (tiredness)</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">थकान (थकावट)</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपकी </g>
+					<g id="b1-0" wb:name="b1">थकान</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">थकान (थकावट)</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="o6V/xBVn9UHhgQyeMue6Jw==" wb:date="09/04/2022 13:09:43" id="8677165" wb:segmentId="14" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="HQVOIBSL64QZ87Z5eaj9tg==" wb:date="09/04/2022 13:09:43" id="8677166" wb:segmentId="15" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="plcQAYD6D5KCVr03+GRmag==" wb:date="09/04/2022 13:09:43" id="8677167" wb:segmentId="16" wb:subSegmentId="0">
+				<source xml:space="preserve">Physical weakness</source>
+				<target xml:space="preserve">शारीरिक कमज़ोरी</target>
+				<target xml:space="preserve">शारीरिक कमजोरी</target>
+				<target xml:space="preserve">शारीरिक कमज़ोरी</target>
+			</trans-unit>
+			<trans-unit wb:hash="dCygvtbQkj4CqEUHVGwaYw==" wb:date="09/04/2022 13:09:43" id="8677168" wb:segmentId="17" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="rqRiWAjwv70lmGJkXbLTaw==" wb:date="09/04/2022 13:09:43" id="8677169" wb:segmentId="18" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="c/4PzLKEn/tnvMO+IdO51Q==" wb:date="09/04/2022 13:09:43" id="8677170" wb:segmentId="19" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your feeling of </g>
+					<g id="b1-0" wb:name="b1">physical weakness</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">शारीरिक कमज़ोरी का एहसास</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपकी </g>
+					<g id="b1-0" wb:name="b1">शारीरिक कमजोरी</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">शारीरिक कमज़ोरी का एहसास</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="vb71d4yu3zdK4DBE0xWZSg==" wb:date="09/04/2022 13:09:43" id="8677171" wb:segmentId="20" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="yay+TExXssITGe4uIguygA==" wb:date="09/04/2022 13:09:43" id="8677172" wb:segmentId="21" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="FuQDv8e6DwI5yAVci+QpIg==" wb:date="09/04/2022 13:09:43" id="8677173" wb:segmentId="22" wb:subSegmentId="0">
+				<source xml:space="preserve">Cough</source>
+				<target xml:space="preserve">खांसी</target>
+				<target xml:space="preserve">खांसी</target>
+				<target xml:space="preserve">खांसी</target>
+			</trans-unit>
+			<trans-unit wb:hash="+/3jMqCoU/lSmPCISXGuvQ==" wb:date="09/04/2022 13:09:43" id="8677174" wb:segmentId="23" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="YDy/x+eUEsqwQ3W/IgIf6Q==" wb:date="09/04/2022 13:09:43" id="8677175" wb:segmentId="24" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="TEEaJ1JvStrbxcZTsexMuQ==" wb:date="09/04/2022 13:09:43" id="8677176" wb:segmentId="25" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">cough</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">खांसी</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपकी </g>
+					<g id="b1-0" wb:name="b1">खांसी</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">खांसी</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="VPwq6yIkJX5arcWxC2mH1w==" wb:date="09/04/2022 13:09:43" id="8677177" wb:segmentId="26" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="2Y9NDCqWPBPpCreHHXpGVw==" wb:date="09/04/2022 13:09:43" id="8677178" wb:segmentId="27" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="yHCwxjiuUH/LLMk+YXVCYA==" wb:date="09/04/2022 13:09:43" id="8677179" wb:segmentId="28" wb:subSegmentId="0">
+				<source xml:space="preserve">Shortness of breath (difficulty breathing)</source>
+				<target xml:space="preserve">सांस की कमी (सांस लेने में कठिनाई)</target>
+				<target xml:space="preserve">सांस लेने में तकलीफ</target>
+				<target xml:space="preserve">सांस की कमी (सांस लेने में कठिनाई)</target>
+			</trans-unit>
+			<trans-unit wb:hash="xE5Cnnr7IPgvm9T5V0Ns2Q==" wb:date="09/04/2022 13:09:43" id="8677180" wb:segmentId="29" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="nbophp2Rq5aoYCG2powkgw==" wb:date="09/04/2022 13:09:43" id="8677181" wb:segmentId="30" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="aMWcZxD64J2AhEeomukzow==" wb:date="09/04/2022 13:09:43" id="8677182" wb:segmentId="31" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">shortness of breath (difficulty breathing)</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">सांस की कमी (सांस लेने में कठिनाई)</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपको </g>
+					<g id="b1-0" wb:name="b1">सांस लेने में होने वाली तकलीफ</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">सांस की कमी (सांस लेने में कठिनाई)</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="Hqq/aPCoXpBYQgrM6jWtCQ==" wb:date="09/04/2022 13:09:43" id="8677183" wb:segmentId="32" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="/jkhCAKSe8V2xtGOkWbihA==" wb:date="09/04/2022 13:09:43" id="8677184" wb:segmentId="33" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="vQt0F/qcbPOviz+NhGZMeQ==" wb:date="09/04/2022 13:09:43" id="8677185" wb:segmentId="34" wb:subSegmentId="0">
+				<source xml:space="preserve">Sore throat</source>
+				<target xml:space="preserve">गले में खराश</target>
+				<target xml:space="preserve">गले में खराश</target>
+				<target xml:space="preserve">गले में खराश</target>
+			</trans-unit>
+			<trans-unit wb:hash="uSz0ITitgDzdzkYIVk734Q==" wb:date="09/04/2022 13:09:43" id="8677186" wb:segmentId="35" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="lWTSQAKqHgulvjx2DkHDaw==" wb:date="09/04/2022 13:09:43" id="8677187" wb:segmentId="36" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="MwjEMC339DqWf0T3fMTn3A==" wb:date="09/04/2022 13:09:43" id="8677188" wb:segmentId="37" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">sore throat</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">गले में खराश</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">गले की खराश</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">गले में खराश</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="UZs3ygwjyjaUpQ7ObXAmDQ==" wb:date="09/04/2022 13:09:43" id="8677189" wb:segmentId="38" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="r4nUVlpcgsPA9KrMg8CHTQ==" wb:date="09/04/2022 13:09:43" id="8677190" wb:segmentId="39" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="P1XNAzXMA3kLsglEdE6czg==" wb:date="09/04/2022 13:09:43" id="8677191" wb:segmentId="40" wb:subSegmentId="0">
+				<source xml:space="preserve">Nasal congestion (stuffy nose)</source>
+				<target xml:space="preserve">नाक में जमाव (नाक भरना)</target>
+				<target xml:space="preserve">नाक बंद होना</target>
+				<target xml:space="preserve">नाक में जमाव (नाक भरना)</target>
+			</trans-unit>
+			<trans-unit wb:hash="sslCB/8zfHV3xEMm0UZR2g==" wb:date="09/04/2022 13:09:43" id="8677192" wb:segmentId="41" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="M6Y80/QhIX+n+MSOucB6Vg==" wb:date="09/04/2022 13:09:43" id="8677193" wb:segmentId="42" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="K7gK/BTskM/QOucsE/TQdA==" wb:date="09/04/2022 13:09:43" id="8677194" wb:segmentId="43" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">nasal congestion (stuffy nose)</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">नाक में जमाव (नाक भरना)</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">नाक का बंद होना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">नाक में जमाव (नाक भरना)</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="Lvqt7PZDjodmcLGUO71Rzw==" wb:date="09/04/2022 13:09:43" id="8677195" wb:segmentId="44" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="waqs3p7TA6tCRED16fS1Gw==" wb:date="09/04/2022 13:09:43" id="8677196" wb:segmentId="45" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="+FZ5k+sVd3NNkl0ezdSS6g==" wb:date="09/04/2022 13:09:43" id="8677197" wb:segmentId="46" wb:subSegmentId="0">
+				<source xml:space="preserve">Wheezing (whistling sound while breathing)</source>
+				<target xml:space="preserve">घरघराहट (सांस लेते समय सीटी की आवाज़)</target>
+				<target xml:space="preserve">घरघराहट (सांस लेते समय सीटी की आवाज निकलना)</target>
+				<target xml:space="preserve">घरघराहट (सांस लेते समय सीटी की आवाज़)</target>
+			</trans-unit>
+			<trans-unit wb:hash="98ThmvufMNIP1OU8CrCLdA==" wb:date="09/04/2022 13:09:43" id="8677198" wb:segmentId="47" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes    </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="D5NICMSZi3p5kCJvgdSi3Q==" wb:date="09/04/2022 13:09:43" id="8677199" wb:segmentId="48" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="ZpxgbxrRxOooa6/szcqinQ==" wb:date="09/04/2022 13:09:43" id="8677200" wb:segmentId="49" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">wheezing (whistling sound while breathing)</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">घरघराहट (सांस लेते समय सीटी की आवाज़)</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपकी </g>
+					<g id="b1-0" wb:name="b1"> घरघराहट (सांस लेते समय सीटी की आवाज निकलना)</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">घरघराहट (सांस लेते समय सीटी की आवाज़)</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="QYLgksyI1QnKGHbpiWLp7A==" wb:date="09/04/2022 13:09:43" id="8677201" wb:segmentId="50" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="VRtKyN7IIP6UQqRzSejOKw==" wb:date="09/04/2022 13:09:43" id="8677202" wb:segmentId="51" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="zS+d9cei4bQj/c+2KgY6RA==" wb:date="09/04/2022 13:09:43" id="8677203" wb:segmentId="52" wb:subSegmentId="0">
+				<source xml:space="preserve">Runny nose</source>
+				<target xml:space="preserve">नाक बहना</target>
+				<target xml:space="preserve">नाक बहना</target>
+				<target xml:space="preserve">नाक बहना</target>
+			</trans-unit>
+			<trans-unit wb:hash="Ste5X/5Xu3S/rxAum4BW7A==" wb:date="09/04/2022 13:09:43" id="8677204" wb:segmentId="53" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="kfpbmfWYXHdmqBdwSJKuwQ==" wb:date="09/04/2022 13:09:43" id="8677205" wb:segmentId="54" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="wcngPZ4ZMT1YijaVdoMX9g==" wb:date="09/04/2022 13:09:43" id="8677206" wb:segmentId="55" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">runny nose</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">बहती नाक</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">नाक का बहना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">बहती नाक</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="ckFtWN5Wk2mdekwMRfTVoA==" wb:date="09/04/2022 13:09:43" id="8677207" wb:segmentId="56" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="a5Qa6Noyi852faFHfuXkJw==" wb:date="09/04/2022 13:09:43" id="8677208" wb:segmentId="57" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="LKGUsf/7svYj4T0nFoF4hQ==" wb:date="09/04/2022 13:09:43" id="8677209" wb:segmentId="58" wb:subSegmentId="0">
+				<source xml:space="preserve">Sneezing</source>
+				<target xml:space="preserve">छींकना</target>
+				<target xml:space="preserve">छींक आना</target>
+				<target xml:space="preserve">छींकना</target>
+			</trans-unit>
+			<trans-unit wb:hash="4YDkOHppWEwVS0BvTUgQAQ==" wb:date="09/04/2022 13:09:43" id="8677210" wb:segmentId="59" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="6BbWhV8k1LiWp3j8fF/GYg==" wb:date="09/04/2022 13:09:43" id="8677211" wb:segmentId="60" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="ohFT8Ee2VYGRfxdPZ/yXoA==" wb:date="09/04/2022 13:09:43" id="8677212" wb:segmentId="61" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">sneezing</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">छींकना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपको </g>
+					<g id="b1-0" wb:name="b1">छींक आना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">छींकना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="coYdUPjUmKdjcVsVpjgBDA==" wb:date="09/04/2022 13:09:44" id="8677213" wb:segmentId="62" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="JfVg/wvohCc8ra2RCwlaIw==" wb:date="09/04/2022 13:09:44" id="8677214" wb:segmentId="63" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="f+k5C6PL+aoutgo1F89iAg==" wb:date="09/04/2022 13:09:44" id="8677215" wb:segmentId="64" wb:subSegmentId="0">
+				<source xml:space="preserve">Chest congestion (mucus in chest)</source>
+				<target xml:space="preserve">छाती में जमाव (छाती में बलगम)</target>
+				<target xml:space="preserve">छाती में जमाव (छाती में बलगम)</target>
+				<target xml:space="preserve">छाती में जमाव (छाती में बलगम)</target>
+			</trans-unit>
+			<trans-unit wb:hash="adc2mCiso2sp9v5arAr9kg==" wb:date="09/04/2022 13:09:44" id="8677216" wb:segmentId="65" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="lGpPvierH/E6RB7atM5Pcg==" wb:date="09/04/2022 13:09:44" id="8677217" wb:segmentId="66" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="eCK3uGMZLWFOdcAjrCcv0Q==" wb:date="09/04/2022 13:09:44" id="8677218" wb:segmentId="67" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">chest congestion (mucus in chest)</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">सीने में जमाव (सीने में बलगम)</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपकी </g>
+					<g id="b1-0" wb:name="b1"> छाती में जमाव (छाती में बलगम) होना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">सीने में जमाव (सीने में बलगम)</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="eIt8xWZyRMU5BaOJuDxpaw==" wb:date="09/04/2022 13:09:44" id="8677219" wb:segmentId="68" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="Dwmtla/JFnaHkPAUslzV7Q==" wb:date="09/04/2022 13:09:44" id="8677220" wb:segmentId="69" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="RX948GW7RjJSvsqPDBw7mA==" wb:date="09/04/2022 13:09:44" id="8677221" wb:segmentId="70" wb:subSegmentId="0">
+				<source xml:space="preserve">Chest pain/ pressure/tightness</source>
+				<target xml:space="preserve">सीने में दर्द/ दबाव/कड़ापन</target>
+				<target xml:space="preserve">सीने में दर्द/दबाव/कड़ा लगना</target>
+				<target xml:space="preserve">सीने में दर्द/ दबाव/कड़ापन</target>
+			</trans-unit>
+			<trans-unit wb:hash="Qq7sqrzL2OkVz20OCW+8qw==" wb:date="09/04/2022 13:09:44" id="8677222" wb:segmentId="71" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="ASLlBr7Yj8XyP3YLTCT8ew==" wb:date="09/04/2022 13:09:44" id="8677223" wb:segmentId="72" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="wZ8XOabYbgdgDSNxZMrOuA==" wb:date="09/04/2022 13:09:44" id="8677224" wb:segmentId="73" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">chest pain/pressure/tightness</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">सीने में दर्द/दबाव/कड़ापन</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">सीने का दर्द/दबाव/कड़ा लगना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">सीने में दर्द/दबाव/कड़ापन</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="4uOCq8bvpvvJYyXIs53F4w==" wb:date="09/04/2022 13:09:44" id="8677225" wb:segmentId="74" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="v3Jd4CDkcW4i74E71lIHLw==" wb:date="09/04/2022 13:09:44" id="8677226" wb:segmentId="75" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="PfjeXwSoUGmDIqVnHOUPQA==" wb:date="09/04/2022 13:09:44" id="8677227" wb:segmentId="76" wb:subSegmentId="0">
+				<source xml:space="preserve">Muscle aches/pains</source>
+				<target xml:space="preserve">मांसपेशी में पीड़ा/दर्द</target>
+				<target xml:space="preserve">मांस पेशियों में दर्द</target>
+				<target xml:space="preserve">मांसपेशी में पीड़ा/दर्द</target>
+			</trans-unit>
+			<trans-unit wb:hash="eT7meogprNAvdrmsXvvLkg==" wb:date="09/04/2022 13:09:44" id="8677228" wb:segmentId="77" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="NZrX/fNs/QSWL5huIP+j3A==" wb:date="09/04/2022 13:09:44" id="8677229" wb:segmentId="78" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="TKPex8EocOoi6J6cLniP0Q==" wb:date="09/04/2022 13:09:44" id="8677230" wb:segmentId="79" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe were your </g>
+					<g id="b1-0" wb:name="b1">muscle aches or pains</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">मांसपेशी में पीड़ा या दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">मांस पेशियों में होने वाला दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">मांसपेशी में पीड़ा या दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="ftH3TbREWHLW86vtzND9Mg==" wb:date="09/04/2022 13:09:44" id="8677231" wb:segmentId="80" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="hGCh9V5k4rFdc6olF/G8CQ==" wb:date="09/04/2022 13:09:44" id="8677232" wb:segmentId="81" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="LGEKkAXoRr4iFMG6+M2w8A==" wb:date="09/04/2022 13:09:44" id="8677233" wb:segmentId="82" wb:subSegmentId="0">
+				<source xml:space="preserve">Joint aches/pains</source>
+				<target xml:space="preserve">जोड़ों में पीड़ा/दर्द</target>
+				<target xml:space="preserve">जोड़ों में दर्द</target>
+				<target xml:space="preserve">जोड़ों में पीड़ा/दर्द</target>
+			</trans-unit>
+			<trans-unit wb:hash="wJeqLzc/UA1+22XEcOl6uQ==" wb:date="09/04/2022 13:09:44" id="8677234" wb:segmentId="83" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="tDGvJWgN0cxX2kvdbvmT4Q==" wb:date="09/04/2022 13:09:44" id="8677235" wb:segmentId="84" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="d/zF1Lz9+brIeAz95Nyv7w==" wb:date="09/04/2022 13:09:44" id="8677236" wb:segmentId="85" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe were the </g>
+					<g id="b1-0" wb:name="b1">aches or pains in your joints</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">जोड़ों में पीड़ा या दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">जोड़ों में होने वाला दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">जोड़ों में पीड़ा या दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="Q9wsrzrMFsDOfSELc4GFig==" wb:date="09/04/2022 13:09:44" id="8677237" wb:segmentId="86" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="haGNeLW5PbwKocH0qUbDpA==" wb:date="09/04/2022 13:09:44" id="8677238" wb:segmentId="87" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="47STCtNVhtElxYvwM6ELLQ==" wb:date="09/04/2022 13:09:44" id="8677239" wb:segmentId="88" wb:subSegmentId="0">
+				<source xml:space="preserve">Headache</source>
+				<target xml:space="preserve">सरदर्द</target>
+				<target xml:space="preserve">सिरदर्द</target>
+				<target xml:space="preserve">सरदर्द</target>
+			</trans-unit>
+			<trans-unit wb:hash="P4cjYB+tlLjDnJPpmmtX6A==" wb:date="09/04/2022 13:09:44" id="8677240" wb:segmentId="89" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="ZcZX5LciyTPe7p638rPq6g==" wb:date="09/04/2022 13:09:44" id="8677241" wb:segmentId="90" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="g2Xe4g5asdlIOMmospPETw==" wb:date="09/04/2022 13:09:44" id="8677242" wb:segmentId="91" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">headache</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">सरदर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपका </g>
+					<g id="b1-0" wb:name="b1">सिरदर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">सरदर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="ulJOPprqsgQutkzzeHn8Kw==" wb:date="09/04/2022 13:09:44" id="8677243" wb:segmentId="92" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="JY3n/8okMyST6qPwqN0VDg==" wb:date="09/04/2022 13:09:44" id="8677244" wb:segmentId="93" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="f1cs3vFVbR/W1CKq1jY0Rg==" wb:date="09/04/2022 13:09:44" id="8677245" wb:segmentId="94" wb:subSegmentId="0">
+				<source xml:space="preserve">Feeling faint</source>
+				<target xml:space="preserve">बेहोशी महसूस करना</target>
+				<target xml:space="preserve">चक्कर आना</target>
+				<target xml:space="preserve">बेहोशी महसूस करना</target>
+			</trans-unit>
+			<trans-unit wb:hash="WnfqImkEELn7MHWP4S7Mcg==" wb:date="09/04/2022 13:09:44" id="8677246" wb:segmentId="95" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="hd6u9fsc/8xp+uE3HWFw4Q==" wb:date="09/04/2022 13:09:44" id="8677247" wb:segmentId="96" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="qWxyoREDRNORfsU1pjtrTA==" wb:date="09/04/2022 13:09:44" id="8677248" wb:segmentId="97" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">feeling of faintness</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">बेहोशी का एहसास</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपको </g>
+					<g id="b1-0" wb:name="b1">चक्कर आना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">बेहोशी का एहसास</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="e5wL9WfJHQ+gJOwz+kfXyQ==" wb:date="09/04/2022 13:09:44" id="8677249" wb:segmentId="98" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="aPdwwD3GXDQutn6QJZBjRQ==" wb:date="09/04/2022 13:09:44" id="8677250" wb:segmentId="99" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="8rPk5t9GDQH4M+zTrvRfgQ==" wb:date="09/04/2022 13:09:44" id="8677251" wb:segmentId="100" wb:subSegmentId="0">
+				<source xml:space="preserve">Problems thinking clearly/brain fog</source>
+				<target xml:space="preserve">स्पष्टता से सोचने में समस्याएं/ब्रेन फॉग</target>
+				<target xml:space="preserve">अच्छे से विचार करने में परेशानी/ब्रेन फॉग</target>
+				<target xml:space="preserve">स्पष्टता से सोचने में समस्याएं/ब्रेन फॉग</target>
+			</trans-unit>
+			<trans-unit wb:hash="M9KHPHib4U9wmPyU26l+EQ==" wb:date="09/04/2022 13:09:44" id="8677252" wb:segmentId="101" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"></g>
+					<g id="b4-0" wb:name="b4"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"></g>
+					<g id="b4-0" wb:name="b4"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"></g>
+					<g id="b4-0" wb:name="b4"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="MPH4PcNHmVOlcwCbFn1CyQ==" wb:date="09/04/2022 13:09:44" id="8677253" wb:segmentId="102" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="tKFyeMCAmg/FOILe4VZT9Q==" wb:date="09/04/2022 13:09:44" id="8677254" wb:segmentId="103" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe were your </g>
+					<g id="b1-0" wb:name="b1">problems thinking clearly/brain fog</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">स्पष्टता से सोचने में समस्याएं/ब्रेन फॉग</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थीं/कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपकी </g>
+					<g id="b1-0" wb:name="b1">अच्छे से विचार करने में परेशानी/ब्रेन फॉग की समस्या</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">स्पष्टता से सोचने में समस्याएं/ब्रेन फॉग</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थीं/कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="X8x6axW6c2F3c3Y7NjTalA==" wb:date="09/04/2022 13:09:44" id="8677255" wb:segmentId="104" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="DcaCTWiHEHQ2uiMcwZryZw==" wb:date="09/04/2022 13:09:44" id="8677256" wb:segmentId="105" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="ni+yNCNajWY9Fp1C6zFKEw==" wb:date="09/04/2022 13:09:44" id="8677257" wb:segmentId="106" wb:subSegmentId="0">
+				<source xml:space="preserve">Chills</source>
+				<target xml:space="preserve">कंपकपी</target>
+				<target xml:space="preserve">ठंड लगना</target>
+				<target xml:space="preserve">कंपकपी</target>
+			</trans-unit>
+			<trans-unit wb:hash="8JFE7z6dhoe6Fy9ETexGOw==" wb:date="09/04/2022 13:09:44" id="8677258" wb:segmentId="107" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="x1h8d8TiH2dB8PVh3z9fOg==" wb:date="09/04/2022 13:09:44" id="8677259" wb:segmentId="108" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="zds6ZJIv4Nt108RXARzhGw==" wb:date="09/04/2022 13:09:44" id="8677260" wb:segmentId="109" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe were your </g>
+					<g id="b1-0" wb:name="b1">chills </g>
+					<g id="t2-0" wb:name="t2">in the last 24 hours?</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">कंपकपी</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपको </g>
+					<g id="b1-0" wb:name="b1">ठंड का एहसास होना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">कंपकपी</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="ndxN8tG6Nsh5MxzLcJcYZg==" wb:date="09/04/2022 13:09:44" id="8677261" wb:segmentId="110" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="w724VA43THpFpjlhvJXzSw==" wb:date="09/04/2022 13:09:44" id="8677262" wb:segmentId="111" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="tvE7choG7+QVI3UGKLzGSA==" wb:date="09/04/2022 13:09:44" id="8677263" wb:segmentId="112" wb:subSegmentId="0">
+				<source xml:space="preserve">Skin rash</source>
+				<target xml:space="preserve">त्वचा पर ददोरा</target>
+				<target xml:space="preserve">त्वचा पर लाल चकत्ते</target>
+				<target xml:space="preserve">त्वचा पर ददोरा</target>
+			</trans-unit>
+			<trans-unit wb:hash="fqvkt89YodzB8N3qKHhGhg==" wb:date="09/04/2022 13:09:44" id="8677264" wb:segmentId="113" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes  </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="UeETxG4gP4u1OulOMiGH8g==" wb:date="09/04/2022 13:09:44" id="8677265" wb:segmentId="114" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="wsoaBGiSjC8H+r06IKjPJA==" wb:date="09/04/2022 13:09:44" id="8677266" wb:segmentId="115" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">skin rash</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">त्वचा पर ददोरा</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">त्वचा पर होने वाला लाल चकत्ता</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था?</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">त्वचा पर ददोरा</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="vDdRGq8zvfVOHJfOQYvInA==" wb:date="09/04/2022 13:09:44" id="8677267" wb:segmentId="116" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="Vd1zBN4nQ+eUZgG1sV6KtQ==" wb:date="09/04/2022 13:09:44" id="8677268" wb:segmentId="117" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="YYWONj01RL/eJpmvaEyXwQ==" wb:date="09/04/2022 13:09:44" id="8677269" wb:segmentId="118" wb:subSegmentId="0">
+				<source xml:space="preserve">Eye irritation/discharge</source>
+				<target xml:space="preserve">आंखों में जलन/पानी निकलना</target>
+				<target xml:space="preserve">आंखों में खुजली होना/पानी निकलना</target>
+				<target xml:space="preserve">आंखों में जलन/पानी निकलना</target>
+			</trans-unit>
+			<trans-unit wb:hash="SK+gXmfPI1lDmwkBbZzevA==" wb:date="09/04/2022 13:09:44" id="8677270" wb:segmentId="119" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="rUyURSGOJCtzRiKwBCNvYQ==" wb:date="09/04/2022 13:09:44" id="8677271" wb:segmentId="120" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="pqAhF8054YqKRdcNuxWPTA==" wb:date="09/04/2022 13:09:44" id="8677272" wb:segmentId="121" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">eye irritation/discharge</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">आंख की जलन/पानी निकलना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपकी </g>
+					<g id="b1-0" wb:name="b1">आंखों में खुजली होना/पानी निकलना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">आंख की जलन/पानी निकलना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="zgg9O8xhE5CScEQmUr82Zg==" wb:date="09/04/2022 13:09:44" id="8677273" wb:segmentId="122" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="+fhyJbCkLBV346VLgpupiQ==" wb:date="09/04/2022 13:09:44" id="8677274" wb:segmentId="123" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="AEK1Lbz1dCtAjNy4o81Hig==" wb:date="09/04/2022 13:09:44" id="8677275" wb:segmentId="124" wb:subSegmentId="0">
+				<source xml:space="preserve">Diarrhea</source>
+				<target xml:space="preserve">दस्त</target>
+				<target xml:space="preserve">डायरिया</target>
+				<target xml:space="preserve">दस्त</target>
+			</trans-unit>
+			<trans-unit wb:hash="hs+l2lHb0PwovPCNlqeN1A==" wb:date="09/04/2022 13:09:44" id="8677276" wb:segmentId="125" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="cpJM+33HFn9mVnKP0SU09Q==" wb:date="09/04/2022 13:09:44" id="8677277" wb:segmentId="126" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="Zq/YdijFEcCq6xRIkBHplw==" wb:date="09/04/2022 13:09:44" id="8677278" wb:segmentId="127" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">diarrhea</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">दस्त</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपका </g>
+					<g id="b1-0" wb:name="b1">डायरिया</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">दस्त</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="2Bd2MhpyazJX6KBo3QdqiQ==" wb:date="09/04/2022 13:09:44" id="8677279" wb:segmentId="128" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="rfyddsCis+I6Q4BA9qR8qw==" wb:date="09/04/2022 13:09:44" id="8677280" wb:segmentId="129" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="zgdJ2ehtfQxLcTR4agU6Og==" wb:date="09/04/2022 13:09:44" id="8677281" wb:segmentId="130" wb:subSegmentId="0">
+				<source xml:space="preserve">Vomiting</source>
+				<target xml:space="preserve">उल्टी करना</target>
+				<target xml:space="preserve">उल्टी होना</target>
+				<target xml:space="preserve">उल्टी करना</target>
+			</trans-unit>
+			<trans-unit wb:hash="0Mm7NT/Y5knVtSMr/0UwaA==" wb:date="09/04/2022 13:09:44" id="8677282" wb:segmentId="131" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="3rEHA8cUugAFsaqgesaTKA==" wb:date="09/04/2022 13:09:44" id="8677283" wb:segmentId="132" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="GIdiD+XKWB7DqgWXSRJDrQ==" wb:date="09/04/2022 13:09:44" id="8677284" wb:segmentId="133" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">vomiting</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">उल्टी करना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">उल्टी होने का अनुभव</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">उल्टी करना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="MxIgbjj91drcqsNqxgByvQ==" wb:date="09/04/2022 13:09:44" id="8677285" wb:segmentId="134" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="1yJt87HautdJ8vvRFst2Ow==" wb:date="09/04/2022 13:09:44" id="8677286" wb:segmentId="135" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="JJQAeCBDD07bwgQL3cImUQ==" wb:date="09/04/2022 13:09:44" id="8677287" wb:segmentId="136" wb:subSegmentId="0">
+				<source xml:space="preserve">Nausea</source>
+				<target xml:space="preserve">मतली</target>
+				<target xml:space="preserve">जी मिचलाना</target>
+				<target xml:space="preserve">मतली</target>
+			</trans-unit>
+			<trans-unit wb:hash="4Gl0gaQGbGIultXtrUxnig==" wb:date="09/04/2022 13:09:44" id="8677288" wb:segmentId="137" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="hDf2G3gHFkVUQRPTTBkN6g==" wb:date="09/04/2022 13:09:44" id="8677289" wb:segmentId="138" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="2EcjNfGm5jvDTDO14oFm4g==" wb:date="09/04/2022 13:09:44" id="8677290" wb:segmentId="139" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">nausea</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">मतली</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपका </g>
+					<g id="b1-0" wb:name="b1">जी मिचलाना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपकी </g>
+					<g id="b1-0" wb:name="b1">मतली</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="DV29IoNkbzrmakO1w7zRfQ==" wb:date="09/04/2022 13:09:44" id="8677291" wb:segmentId="140" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="xBJlbH1YjLGRuCcnj4lZ2g==" wb:date="09/04/2022 13:09:44" id="8677292" wb:segmentId="141" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="B2V/GjbM6rRTRgCFOKovAg==" wb:date="09/04/2022 13:09:44" id="8677293" wb:segmentId="142" wb:subSegmentId="0">
+				<source xml:space="preserve">Abdominal/stomach pain</source>
+				<target xml:space="preserve">पेट/उदर में दर्द</target>
+				<target xml:space="preserve">पेट में दर्द</target>
+				<target xml:space="preserve">पेट/उदर में दर्द</target>
+			</trans-unit>
+			<trans-unit wb:hash="D8dr6WfQPwVi+9VHwcMRdw==" wb:date="09/04/2022 13:09:44" id="8677294" wb:segmentId="143" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="zc87QACNr0XCNLObD3iILg==" wb:date="09/04/2022 13:09:44" id="8677295" wb:segmentId="144" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="XZ3xiM2aULHMjEnXouxArQ==" wb:date="09/04/2022 13:09:44" id="8677296" wb:segmentId="145" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">abdominal/stomach pain</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">पेट/उदर में दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपका </g>
+					<g id="b1-0" wb:name="b1">पेट दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपके </g>
+					<g id="b1-0" wb:name="b1">पेट/उदर में दर्द</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="19mZcbDYbfjaw5ySVD/fRA==" wb:date="09/04/2022 13:09:44" id="8677297" wb:segmentId="146" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="l5IulYy9ddBzbijSh97ExQ==" wb:date="09/04/2022 13:09:44" id="8677298" wb:segmentId="147" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="Otn2Yq9qnzes5ORCPyQeQA==" wb:date="09/04/2022 13:09:44" id="8677299" wb:segmentId="148" wb:subSegmentId="0">
+				<source xml:space="preserve">Loss of appetite</source>
+				<target xml:space="preserve">भूख न लगना</target>
+				<target xml:space="preserve">भूख नहीं लगना</target>
+				<target xml:space="preserve">भूख न लगना</target>
+			</trans-unit>
+			<trans-unit wb:hash="WhYEEW0Dnr0FzHzVL1Q6Sg==" wb:date="09/04/2022 13:09:44" id="8677300" wb:segmentId="149" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="R3lqAXNvbIgvGUAkL/TB3w==" wb:date="09/04/2022 13:09:44" id="8677301" wb:segmentId="150" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="eK3G25aCEGOEjm69IdyhKg==" wb:date="09/04/2022 13:09:44" id="8677302" wb:segmentId="151" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">How severe was your </g>
+					<g id="b1-0" wb:name="b1">loss of appetite</g>
+					<g id="t2-0" wb:name="t2"> in the last 24 hours? </g>
+				</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">भूख न लगना</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपको </g>
+					<g id="b1-0" wb:name="b1">भूख नहीं लगना</g>
+					<g id="t2-0" wb:name="t2"> कितना गंभीर था? </g>
+				</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">भूख न लगना</g>
+					<g id="t2-0" wb:name="t2"> कितनी गंभीर थी? </g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="HDNm/xcxw3B3sT9nAoMe8w==" wb:date="09/04/2022 13:09:44" id="8677303" wb:segmentId="152" wb:subSegmentId="0">
+				<source xml:space="preserve">None</source>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+				<target xml:space="preserve">बिल्कुल नहीं</target>
+				<target xml:space="preserve">बिलकुल भी नहीं</target>
+			</trans-unit>
+			<trans-unit wb:hash="khwG8i7aVPRZKQMav6q1Kg==" wb:date="09/04/2022 13:09:44" id="8677304" wb:segmentId="153" wb:subSegmentId="0">
+				<source xml:space="preserve">Worst possible</source>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+				<target xml:space="preserve">सबसे खराब</target>
+				<target xml:space="preserve">जितना/जितनी बदतर संभव हो</target>
+			</trans-unit>
+			<trans-unit wb:hash="G2VRKRT5dWcdpm0tjGVH6g==" wb:date="09/04/2022 13:09:44" id="8677305" wb:segmentId="154" wb:subSegmentId="0">
+				<source xml:space="preserve">In the last 24 hours, have you experienced…</source>
+				<target xml:space="preserve">पिछले 24 घंटों में, क्या आपने अनुभव किया है…</target>
+				<target xml:space="preserve">पिछले 24 घंटे में क्या आपने महसूस किया...</target>
+				<target xml:space="preserve">पिछले 24 घंटों में, क्या आपने अनुभव किया है…</target>
+			</trans-unit>
+			<trans-unit wb:hash="GBJ8AXjWpyd6msO6As2Ljw==" wb:date="09/04/2022 13:09:44" id="8677306" wb:segmentId="155" wb:subSegmentId="0">
+				<source xml:space="preserve">Fever</source>
+				<target xml:space="preserve">बुखार</target>
+				<target xml:space="preserve">बुखार</target>
+				<target xml:space="preserve">बुखार</target>
+			</trans-unit>
+			<trans-unit wb:hash="Ki4DRIWofRRgUnvJZRSJ2w==" wb:date="09/04/2022 13:09:44" id="8677307" wb:segmentId="156" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="utg54nZjFxZGgve58NGnnQ==" wb:date="09/04/2022 13:09:44" id="8677308" wb:segmentId="157" wb:subSegmentId="0">
+				<source xml:space="preserve">If yes,</source>
+				<target xml:space="preserve">यदि हां,</target>
+				<target xml:space="preserve">यदि हाँ,</target>
+				<target xml:space="preserve">यदि हां,</target>
+			</trans-unit>
+			<trans-unit wb:hash="dfT6wgfPa3klmr4ryoib4A==" wb:date="09/04/2022 13:09:44" id="8677309" wb:segmentId="158" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="t1-0" wb:name="t1">What was your </g>
+					<g id="b1-0" wb:name="b1">highest temperature</g>
+					<x id="t2-0" wb:name="t2"/> in the last 24 hours?</source>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">उच्चतम तापमान</g>
+					<x id="t2-0" wb:name="t2"/> क्या था?</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटे में आपके </g>
+					<g id="b1-0" wb:name="b1">शरीर का अधिकतम तापमान</g>
+					<x id="t2-0" wb:name="t2"/> कितना था?</target>
+				<target xml:space="preserve">
+					<g id="t1-0" wb:name="t1">पिछले 24 घंटों में आपका </g>
+					<g id="b1-0" wb:name="b1">उच्चतम तापमान</g>
+					<x id="t2-0" wb:name="t2"/> क्या था?</target>
+			</trans-unit>
+			<trans-unit wb:hash="vhkVmSmfzuSrNvm5pB8n5g==" wb:date="09/04/2022 13:09:44" id="8677324" wb:segmentId="158" wb:subSegmentId="1">
+				<source xml:space="preserve">____  F<x id="/t2-0" wb:name="/t2"/>
+				</source>
+				<target xml:space="preserve">____  F<x id="/t2-0" wb:name="/t2"/>
+				</target>
+				<target xml:space="preserve">____  F<x id="/t2-0" wb:name="/t2"/>
+				</target>
+				<target xml:space="preserve">____  F<x id="/t2-0" wb:name="/t2"/>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="ACDjoY1yjD/u6yFEk7WkAA==" wb:date="09/04/2022 13:09:44" id="8677310" wb:segmentId="159" wb:subSegmentId="0">
+				<source xml:space="preserve">In the last 24 hours, have you experienced…</source>
+				<target xml:space="preserve">पिछले 24 घंटों में, क्या आपने अनुभव किया है…</target>
+				<target xml:space="preserve">पिछले 24 घंटे में क्या आपने महसूस किया...</target>
+				<target xml:space="preserve">पिछले 24 घंटों में, क्या आपने अनुभव किया है…</target>
+			</trans-unit>
+			<trans-unit wb:hash="vV/aoMl8ATEVwgxY+afhhg==" wb:date="09/04/2022 13:09:44" id="8677311" wb:segmentId="160" wb:subSegmentId="0">
+				<source xml:space="preserve">Uncontrollable body shaking/shivering</source>
+				<target xml:space="preserve">शरीर का अनियंत्रित हिलना/कांपना</target>
+				<target xml:space="preserve">शरीर में अनियंत्रित कंपकपाहट/ठंड से कांपना</target>
+				<target xml:space="preserve">शरीर का अनियंत्रित हिलना/कांपना</target>
+			</trans-unit>
+			<trans-unit wb:hash="XOl2gJaQXVgAwyGerV9e0w==" wb:date="09/04/2022 13:09:44" id="8677312" wb:segmentId="161" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="hU61kSbk8BeL+TOM+actoQ==" wb:date="09/04/2022 13:09:44" id="8677313" wb:segmentId="162" wb:subSegmentId="0">
+				<source xml:space="preserve">Decreased sense of smell</source>
+				<target xml:space="preserve">गंध की भावना में कमी</target>
+				<target xml:space="preserve">सूंघने की शक्ति में कमी</target>
+				<target xml:space="preserve">गंध की भावना में कमी</target>
+			</trans-unit>
+			<trans-unit wb:hash="H1dTfNWgP0ymmxHyumvpGw==" wb:date="09/04/2022 13:09:44" id="8677314" wb:segmentId="163" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="tzmk+Agl/Cl6LVhUW9NjWA==" wb:date="09/04/2022 13:09:44" id="8677315" wb:segmentId="164" wb:subSegmentId="0">
+				<source xml:space="preserve">Decreased sense of taste</source>
+				<target xml:space="preserve">स्वाद की भावना में कमी</target>
+				<target xml:space="preserve">स्वाद की कमी</target>
+				<target xml:space="preserve">स्वाद की भावना में कमी</target>
+			</trans-unit>
+			<trans-unit wb:hash="dh3Yugo/PMWR5divtYDaUg==" wb:date="09/04/2022 13:09:44" id="8677316" wb:segmentId="165" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="oeEz81wMpRJYyVigHbdRzA==" wb:date="09/04/2022 13:09:44" id="8677317" wb:segmentId="166" wb:subSegmentId="0">
+				<source xml:space="preserve">Red or bruised looking feet or toes</source>
+				<target xml:space="preserve">लाल या नीले दिखने वाले पैर या पैर की उंगलियां</target>
+				<target xml:space="preserve">पैर या पैर की उंगलियां लाल या चोटिल दिखना</target>
+				<target xml:space="preserve">लाल या नीले दिखने वाले पैर या पैर की उंगलियां</target>
+			</trans-unit>
+			<trans-unit wb:hash="wa3UHxcy2yOjdCmz8JUkUA==" wb:date="09/04/2022 13:09:44" id="8677318" wb:segmentId="167" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> Yes   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> No</g>
+				</source>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हाँ   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+				<target xml:space="preserve">
+					<g id="b1-0" wb:name="b1"> हां   </g>
+					<g id="b2-0" wb:name="b2"></g>
+					<g id="b3-0" wb:name="b3"> नहीं</g>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="Ei6Bh2Ezf5hmJGF1cgRfMg==" wb:date="09/04/2022 13:09:44" id="8677319" wb:segmentId="168" wb:subSegmentId="0">
+				<source xml:space="preserve">CONFIDENTIAL: SIC Version 2.0</source>
+				<target xml:space="preserve">गोपनीयः SIC संस्करण 2.0</target>
+				<target xml:space="preserve">गोपनीय: SIC संस्करण 2.0</target>
+				<target xml:space="preserve">गोपनीयः SIC संस्करण 2.0</target>
+			</trans-unit>
+			<trans-unit wb:hash="bNxYuxCNT6Ul3HUUbuzOTQ==" wb:date="09/04/2022 13:09:44" id="8677320" wb:segmentId="169" wb:subSegmentId="0">
+				<source xml:space="preserve">May 29, 2020</source>
+				<target xml:space="preserve">29 मई, 2020</target>
+				<target xml:space="preserve">29 मई, 2020</target>
+				<target xml:space="preserve">29 मई, 2020</target>
+			</trans-unit>
+			<trans-unit wb:hash="jwbkTUtiAK+xXwaYQiMTiQ==" wb:date="09/04/2022 13:09:44" id="8677321" wb:segmentId="170" wb:subSegmentId="0">
+				<source xml:space="preserve">
+					<g id="i1-0" wb:name="i1">SIC Version 2.0</g>
+					<g id="u1-0" wb:name="u1">	</g>
+					<x id="u2-0" wb:name="u2"/>
+				</source>
+				<target xml:space="preserve">
+					<g id="i1-0" wb:name="i1">SIC संस्करण 2.0</g>
+					<g id="u1-0" wb:name="u1">	</g>
+					<x id="u2-0" wb:name="u2"/>
+				</target>
+				<target xml:space="preserve">
+					<g id="i1-0" wb:name="i1">SIC संस्करण 2.0</g>
+					<g id="u1-0" wb:name="u1">	</g>
+					<x id="u2-0" wb:name="u2"/>
+				</target>
+				<target xml:space="preserve">
+					<g id="i1-0" wb:name="i1">SIC संस्करण 2.0</g>
+					<g id="u1-0" wb:name="u1">	</g>
+					<x id="u2-0" wb:name="u2"/>
+				</target>
+			</trans-unit>
+			<trans-unit wb:hash="6psX829DfdD6hdZr2ehXzg==" wb:date="09/04/2022 13:09:44" id="8677325" wb:segmentId="170" wb:subSegmentId="1">
+				<source xml:space="preserve">
+					<x id="/u2-0" wb:name="/u2"/>
+					<g id="i2-0" wb:name="i2">May 29 2020</g>
+				</source>
+				<target xml:space="preserve">
+					<x id="/u2-0" wb:name="/u2"/>
+					<g id="i2-0" wb:name="i2">29 मई, 2020</g>
+				</target>
+				<target xml:space="preserve">
+					<x id="/u2-0" wb:name="/u2"/>
+					<g id="i2-0" wb:name="i2">29 मई, 2020</g>
+				</target>
+				<target xml:space="preserve">
+					<x id="/u2-0" wb:name="/u2"/>
+					<g id="i2-0" wb:name="i2">29 मई, 2020</g>
+				</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
